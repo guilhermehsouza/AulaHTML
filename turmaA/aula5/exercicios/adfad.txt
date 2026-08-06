@@ -1,0 +1,34 @@
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+
+
+<table>
+
+<tr>
+	<td>Nome</td>
+	<td>Letra</td>
+	<td>Cifra</td>
+</tr>
+
+<tr>
+	<td>A Banda</td>
+	<td>X</td>
+	<td>--</td>
+</tr>
+
+<tr>
+	<td>Beatriz</td>
+	<td>--</td>
+	<td>X</td>
+</tr>
+
+<tr>
+	<td>Choro Bandido</td>
+	<td>--</td>
+	<td>X</td>
+</tr>
+</table>
